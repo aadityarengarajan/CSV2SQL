@@ -1,0 +1,9 @@
+{
+	"name" : "CSV to SQL",
+	"description" : "Experimental Project for Learning Purposes.",
+	"created" : "17/10/2020",
+	"completed" : "true",
+	"modules" : ["os","mysql.connector"],
+	"hosting" : {"hosted" : "false"},
+	"code" : "CS-17102020-091242"
+}
